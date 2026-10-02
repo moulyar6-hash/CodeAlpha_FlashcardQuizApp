@@ -46,3 +46,9 @@ This project was developed as part of the **CodeAlpha App Development Internship
 **Moulya R**
 
 BCA Student
+
+## 📸 Screenshots
+
+### Home Screen
+
+![Flashcard Quiz App](flashcard.jpeg)
