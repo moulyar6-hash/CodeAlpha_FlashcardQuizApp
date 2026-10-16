@@ -47,8 +47,8 @@ This project was developed as part of the **CodeAlpha App Development Internship
 
 BCA Student
 
-## 📸 ## Screenshots  ### Home Screen  ![Flashcard Quiz Home Screen](flashcard_home.png)
+## 📸 Screenshots
 
 ### Home Screen
 
-![Flashcard Quiz App](flashcard.jpeg)
+![Flashcard Quiz Home Screen](flashcard_home.png)
